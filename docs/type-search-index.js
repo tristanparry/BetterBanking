@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"betterBanking","l":"Account"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"betterBanking","l":"Client"},{"p":"betterBanking","l":"Main"},{"p":"betterBanking","l":"ManageAccount"},{"p":"betterBanking","l":"ManageClient"},{"p":"betterBanking","l":"Utilities"}];updateSearchResults();
