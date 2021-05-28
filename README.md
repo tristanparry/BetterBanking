@@ -1,6 +1,6 @@
 # BetterBanking
 
-Thank you for using <b>BetterBanking!</b> This is a software that allows a user to create a Client account, and up to 3 bank Accounts (Chequing, Savings, Investment).
+Thank you for using <i>BetterBanking!</i> This is a software that allows a user to create a Client account, and up to 3 bank Accounts (<i>Chequing, Savings, Investment</i>).
 All BetterBanking details are stored in an internal file database, so that the program can be dynamically changed with user manipulation.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,4 +46,4 @@ All BetterBanking details are stored in an internal file database, so that the p
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Try out BetterBanking, and have fun -- <b>Developed by Tristan Parry, 2021</b>
+Try out BetterBanking, and have fun -- <i>Developed by Tristan Parry, 2021</i>
