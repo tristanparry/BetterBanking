@@ -7,10 +7,15 @@ All BetterBanking details are stored in an internal file database, so that the p
 
 Account Functionality
 > Deposit
+> 
 > Withdraw
+> 
 > Get Balance
+> 
 > Get Interest Rate
+> 
 > Get Total Funds
+> 
 > Output Details
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
