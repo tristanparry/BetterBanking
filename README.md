@@ -30,13 +30,13 @@ All BetterBanking details are stored in an internal file database, so that the p
 > Output Details
 > 
 > <b>Chequing Account Functionality</b>
->> Write Cheque
+>> <i>Write Cheque</i>
 >
 > <b>Savings Account Functionality</b>
->> Move Money
+>> <i>Move Money</i>
 >
 > <b>Investment Account Functionality</b>
->> Buy Stock
+>> <i>Buy Stock</i>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
