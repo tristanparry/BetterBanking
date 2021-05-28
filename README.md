@@ -42,7 +42,7 @@ All BetterBanking details are stored in an internal file database, so that the p
 
 <h3>Documentation (Javadoc)</h3>
 
-> {LINK GOES HERE}
+> [BetterBanking Documentation](https://tristanparry.github.io/BetterBanking/betterBanking/betterBanking/package-summary.html)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
