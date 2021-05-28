@@ -1,6 +1,6 @@
 # BetterBanking
 
-Thank you for using [https://github.com/tristanparry/BetterBanking](<i>BetterBanking!</i>) This is a software that allows a user to create a Client account, and up to 3 bank Accounts (<i>Chequing, Savings, Investment</i>).
+Thank you for using [<i>BetterBanking!</i>](https://github.com/tristanparry/BetterBanking) This is a software that allows a user to create a Client account, and up to 3 bank Accounts (<i>Chequing, Savings, Investment</i>).
 All BetterBanking details are stored in an internal file database, so that the program can be dynamically changed with user manipulation.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
