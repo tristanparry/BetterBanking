@@ -15,7 +15,9 @@ All BetterBanking details are stored in an internal file database, so that the p
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3>Account Functionality</h3>
+
 > Deposit
+> 
 > Withdraw
 > 
 > Get Balance
