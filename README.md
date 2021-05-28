@@ -46,4 +46,4 @@ All BetterBanking details are stored in an internal file database, so that the p
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Try out BetterBanking, and have fun -- <i>Developed by Tristan Parry, 2021</i>
+Try out BetterBanking, and enjoy -- <i>Developed by Tristan Parry, 2021</i>
