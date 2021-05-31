@@ -35,6 +35,7 @@ public class ManageAccount {
 		if (!c.updateAccounts("Savings")) { validAccounts.add("S - Savings"); }
 		if (!c.updateAccounts("Investment")) { validAccounts.add("I - Investment"); }
 		formattedAccounts = validAccounts.toString().replace("[", "").replace("]", "");
+		// https://cutt.ly/qnfGY3p (2) - Converts the ArrayList to a String, and removes the brackets using .replace()
 		
 		// USER INPUT FOR ACCOUNT TYPE
 		accountInfo.add(c.getUsername());
