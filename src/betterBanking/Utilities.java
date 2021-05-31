@@ -23,14 +23,14 @@ public class Utilities {
 	 * @param modifiedString String to write to the database file
 	 * @throws IOException Exception as a result of I/O failure
 	 */
-	public static void writeToDatabase(Path filepath, int desiredLineNumber, String modifiedString) throws IOException {
+	public static void writeToDatabase(Path filepath, int desiredLineNumber, String modifiedString) throws IOException { // https://cutt.ly/anfHZRf
 		// VARIABLE INITIALIZATIONS
-		List<String> file = new ArrayList<>(Files.readAllLines(filepath, StandardCharsets.UTF_8));
+		List<String> file = new ArrayList<>(Files.readAllLines(filepath, StandardCharsets.UTF_8)); // Reads the specified file as a List<String>
 		
 		// PARSE + WRITE FILE
-		file.get(desiredLineNumber);
-		file.set(desiredLineNumber, modifiedString);
-		Files.write(filepath, file, StandardCharsets.UTF_8);
+		file.get(desiredLineNumber); // Obtains the user's specified line
+		file.set(desiredLineNumber, modifiedString); // Sets the List<String> value at the specified index
+		Files.write(filepath, file, StandardCharsets.UTF_8); // Write to the file (uses StandardCharsets.UTF_8 for functionality/.txt Charset)
 	}
 	
 	
