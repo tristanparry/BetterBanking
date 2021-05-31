@@ -165,6 +165,7 @@ class Chequing extends Account {
 			withdraw(amountArg);
 			this.writtenCheques += recipientArg.toUpperCase() + ": $" + df.format(Double.valueOf(amountArg)) + "\n\t\t ";
 			Files.write(Paths.get(this.fileName), (recipientArg.toUpperCase() + ": $" + df.format(Double.valueOf(amountArg))).getBytes(), StandardOpenOption.APPEND);
+			// https://cutt.ly/TnfS0hK - Encodes the passed String as a byte sequence, and uses StandardOpenOption.APPEND to write to the END of the file
 			return true;
 		} else { return false; }
 	}
