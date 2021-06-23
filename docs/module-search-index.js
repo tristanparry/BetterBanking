@@ -1,1 +1,1 @@
-moduleSearchIndex = [{"l":"betterBanking"}];updateSearchResults();
+moduleSearchIndex = [];updateSearchResults();
