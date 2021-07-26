@@ -1,3 +1,4 @@
+![betterbanking](https://user-images.githubusercontent.com/64918749/126926917-857150ac-0552-471a-b410-73e4231063cc.png)
 # BetterBanking
 
 Thank you for using [<i>BetterBanking!</i>](https://github.com/tristanparry/BetterBanking) This is a software that allows a user to create a Client account, and up to 3 bank Accounts (<i>Chequing, Savings, Investment</i>).
